@@ -1,0 +1,8 @@
+<name>Watermaker
+<description>Midi2800 120ltr/hr
+<image>midi-serisi_58.jpg
+
+<device>
+	<manufacturer>Delfin
+	<model>Midi2800
+	<order>01

@@ -1,0 +1,8 @@
+<name>Dinghy Outboard
+<description>Tohatsu 20Hp
+<image>573c252fe6e14tohatsu.mfs20d.s.jpg
+
+<device>
+	<manufacturer>Tohatsu
+	<model>MFS20D
+	<order>01

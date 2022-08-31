@@ -1,0 +1,8 @@
+<name>Generator
+<description>MDKBM 9.5kW
+<image>mdkbm-11-kw.jpg
+
+<device>
+	<manufacturer>Cummins
+	<model>MDKBM
+	<order>01

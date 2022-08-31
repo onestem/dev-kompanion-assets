@@ -1,0 +1,16 @@
+<name>Starboard Engine
+<description>Yanmar 4JH4-TE
+<image>4JH4-TBE_front_top_1280x1280-1024x1024.jpg
+
+<device>
+	<manufacturer>Yanmar
+	<model>4JH4-TE
+	<order>01
+<device>
+	<manufacturer>Yanmar
+	<model>SD60
+	<order>02
+<device>
+	<manufacturer>ZF
+	<model>Microcommander
+	<order>03
