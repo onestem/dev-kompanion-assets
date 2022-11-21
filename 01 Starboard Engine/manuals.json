@@ -1,6 +1,12 @@
 [
     {
-        "filename": "Yanmar 4JH4-TE Service Manual",
+        "filename": "Operation Manual",
+        "url": "Yanmar_4JH4-TE_Operation Manual (9).pdf",
+        "thumbnail": "pdf003.png",
+        "ver": 1
+    },
+    {
+        "filename": "Service Manual",
         "url": "Yanmar_4JH4-TE_ Service Manual.pdf",
         "thumbnail": "pdf001.png",
         "ver": 1
@@ -8,7 +14,7 @@
 	{
 		"filename": "Data Sheet",
         "url": "Yanmar_4JH4-TE_Data Sheet.pdf",
-        "thumbnail": "pdf001.png",
+        "thumbnail": "pdf002.png",
         "ver": 1
 	}
 ]
